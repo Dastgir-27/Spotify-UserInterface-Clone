@@ -1,2 +1,2 @@
 # Spotify-UserInterface-Clone
-Today I completed making  UI  a similar to Spotify.
+Today I completed making a UI similar to Spotify.
